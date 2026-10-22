@@ -1,0 +1,9 @@
+{
+  "_comment": "Values from Partner Center > Product management > Product identity.",
+  "identity_name": "HasanEmreUsta.KenarYaplacaklar",
+  "publisher": "CN=60121652-487C-4672-9ACC-E107C10FF0F5",
+  "publisher_display_name": "Hasan Emre Usta",
+  "display_name": "Kenar: Yapılacaklar",
+  "description": "Ekranın kenarında duran, tıklayınca açılan yapılacaklar listesi.",
+  "version": "1.0.0.0"
+}
